@@ -131,10 +131,15 @@ body{
     background-image: linear-gradient(orange,tomato);
     color: white;
     font-weight: 600;
-      padding: 10px 40 px;
-      border-radius: 5px;
+      padding: 10px;
+      border-radius: 10px;
     }
     .top-banner{
       background-image: url(top-banner.png);
       background-repeat: no-repeat;
+    }
+    .dream-big{
+      background-image: url(dream-bg.png);
+      background-repeat: no-repeat;
+      background-position: right;
     }
